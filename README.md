@@ -3,7 +3,7 @@ A Bot / API That Sends the Most Recent Posts From one Account to a Discord Webho
 ## Example
 <img src="https://media.discordapp.net/attachments/1180803359129747507/1195849693473816586/image.png?ex=65b57cd0&is=65a307d0&hm=bd3ec84ff18560c433008b9205ad0cd9f97a3a7ed828f8c7e5b3087d1b556df3&=&format=webp&quality=lossless">
 
-### How to setup to your Unique Mastodon Account.
+### How to setup 
 
 **Step 1**
 <img src="https://github.com/dot-wuid/mastodon-post-reader/assets/125801210/0fa87975-ca25-4365-aa78-81d28f9d7442">
